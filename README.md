@@ -2,8 +2,6 @@
 
 项目后端使用 Golang + Gin 开发，前端使用 Vue + ElementUI 编写。
 
-<img src="misc/images/0.png" style="width:60%; border: 1px solid black;" />
-
 # 使用指南
 
 > 去除掉原代码中的mysql和redis，更适合个人使用
