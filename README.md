@@ -1,7 +1,5 @@
 # 迁移网易云/汽水/QQ音乐歌单至 Apple/Youtube/Spotify Music
 
-链接：https://music.unmeta.cn
-
 项目后端使用 Golang + Gin 开发，前端使用 Vue + ElementUI 编写。
 
 <img src="misc/images/0.png" style="width:60%; border: 1px solid black;" />
